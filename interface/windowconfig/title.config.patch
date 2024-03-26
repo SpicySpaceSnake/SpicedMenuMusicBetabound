@@ -1,32 +1,32 @@
 [
   {
     "op" : "add",
-    "path" : "/music/day/tracks",
+    "path" : "/music/day/tracks/-",
     "value" : "/music/sb_forest-exploration1.ogg"
   },
   {
     "op" : "add",
-    "path" : "/music/day/tracks",
+    "path" : "/music/day/tracks/-",
     "value" : "/music/sb_ocean-exploration1.ogg"
   },
   {
     "op" : "add",
-    "path" : "/music/day/tracks",
+    "path" : "/music/day/tracks/-",
     "value" : "/music/sb_tentacle-exploration2.ogg"
   },
   {
     "op" : "add",
-    "path" : "/music/day/tracks",
+    "path" : "/music/day/tracks/-",
     "value" : "/music/sb_underground.ogg"
   },
   {
     "op" : "add",
-    "path" : "/music/day/tracks",
+    "path" : "/music/day/tracks/-",
     "value" : "/music/sb_via-aurora.ogg"
   },
   {
     "op" : "add",
-    "path" : "/music/day/tracks",
+    "path" : "/music/day/tracks/-",
     "value" : "/music/sb_weep-not-my-child.ogg"
   },
   {
